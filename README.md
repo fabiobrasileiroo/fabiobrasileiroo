@@ -8,7 +8,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiobrasileiroo&layout=compact&hide_border=true&title=true&theme=github_dark&include_all_commits=true&count_private=true"  
 </div>
     
-
 </div>
   
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=fabiobrasileiro&bg_color=000000&color=2dbfd2&line=4118a0&point=2dbfd2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -29,7 +28,12 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
- </div>  
+</div>  
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{fabiobrasileiroo}/count.svg" /></p> 
+<br>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169e1&height=120&section=footer"/>
