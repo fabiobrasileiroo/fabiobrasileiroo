@@ -1,4 +1,4 @@
-### Hi, my name is Fabio Brasileiro, and I study programming. Studying information system //Oi meu nome é Fabio Brasileiro, e estudo programação. Cursando Sistema de informaçao
+### Hi, my name is Fabio Brasileiro, and I study programming. Studying information system
 
 <div align="center">
   <a href="https://github.com/fabiobrasileiroo">
