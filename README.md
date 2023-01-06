@@ -4,8 +4,8 @@
 <div>
   <a href="https://github.com/fabiobrasileiroo">
     
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=fabiobrasileiroo&show_icons=true&count_private=true&hide_border=true&title=colortrue&theme=github_dark&include_all_commits=true&count_private=true" alt="Fabio Brasileiro github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiobrasileiroo&layout=compact&hide_border=true&title=true&theme=github_dark&include_all_commits=true&count_private=true"  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=fabiobrasileiroo&show_icons=campact&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiobrasileiroo&layout=compact&hide_border=true&title=true&theme=github_dark&include_all_commits=true&count_private=true" />  
 </div>
     
 </div>
