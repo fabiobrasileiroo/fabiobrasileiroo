@@ -35,7 +35,8 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{fabiobrasileiroo}/count.svg" /></p> 
 <br>
 </div>
- <details>
+<div>
+  <details>
  <summary><h3>👨‍💻 Por que é divertido programar?</h3></summary>
 Pela satisfação de construir algo. Da mesma forma que crianças se divertem montando peças de LEGO, adultos se divertem construindo coisas um pouco mais complexas. Geralmente ficamos felizes quando construímos coisas úteis para alguém. Também ficamos felizes quando fazemos atividades não repetitivas, e quando temos aprendizagem constante.
 <details>
@@ -47,5 +48,5 @@ Na programação, um caractere fora do lugar com certeza irá destruir o seu obj
 "Logo, programar é um poço de alcatrão. Para muitos, as tristezas superam as alegrias, e caso isso aconteça, o poço de alcatrão irá te sugar cada vez mais pro fundo, sendo cada vez mais difícil sair de lá."
 
  * Referencia do livro <strong>"O Mítico Homem-Mês"(the mm-m)<strong>
-
+  </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169e1&height=120&section=footer"/>
