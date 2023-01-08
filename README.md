@@ -51,7 +51,7 @@ Na programação, um caractere fora do lugar com certeza irá destruir o seu obj
  * Referencia do livro <blockquote cite ="https://books.google.com.br/books?id=Yq35BY5Fk3gC&printsec=frontcover&dq=the+mythical+man-month&hl=pt-PT&sa=X&redir_esc=y#v=onepage&q=the%20mythical%20man-month&f=false">
  <strong>"O Mítico Homem-Mês"(the mm-m)</strong></blockquote>
  <a href="https://books.google.com.br/books?id=Yq35BY5Fk3gC&printsec=frontcover&dq=the+mythical+man-month&hl=pt-PT&sa=X&redir_esc=y#v=onepage&q=the%20mythical%20man-month&f=false" target="_blank" hreflang="en">
-   Site do ebook(online)
+   Site do ebook (online)
  </a>
   </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169e1&height=120&section=footer"/>
