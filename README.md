@@ -20,15 +20,17 @@
 <a href="https://www.linkedin.com/in/f%C3%A1bio-henrique-mendes-brasileiro-a75a11207" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 
 ### Main skills:
- ![Linux](https://img.shields.io/badge/Gnu-%23333?style=for-the-badge&logo=Gnu&logoColor=white)
+![Gnu](https://img.shields.io/badge/Gnu-%23333?style=for-the-badge&logo=Gnu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   
 ### Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-0D1117.svg?style=for-the-badge&logo=html5&logoColor=orange)
+![HTML5](https://img.shields.io/badge/HTMl-0D1117.svg?style=for-the-badge&logo=html5&logoColor=orange)&nbsp;
+
 </div>
   
 <div align="center">
