@@ -4,7 +4,7 @@
 <div>
   <a href="https://github.com/fabiobrasileiroo">
   <div>
-    <a href="https://www.youtube.com/channel/UCeJBTNHK4RFxo193R4fkXVg" target="_blank">
+    <a href="https://www.youtube.com/@fabiobrasileiroo" target="_blank">
    <img src=https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
    <a href="https://github.com/fabiobrasileiroo" target="_blank">
