@@ -43,6 +43,7 @@
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Php](https://img.shields.io/badge/-Php-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
 ![Wordpress](https://img.shields.io/badge/-Worpress-0D1117?style=for-the-badge&logo=wordpress&labelColor=0D1117)&nbsp;
+![Mysql](https://img.shields.io/badge/-Mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 </div>
   
 <div align="center">
