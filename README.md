@@ -26,7 +26,7 @@
 </div>
   
   <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=fabiobrasileiroo&bg_color=000000&color=2dbfd2&line=4118a0&point=2dbfd2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
-<img src="./img/perfilGif" />
+<img src="./perfilGif.gif" />
 <div align="center"> 
 
 ### Main skills:
