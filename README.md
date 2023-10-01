@@ -20,7 +20,7 @@
   </div>
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=fabiobrasileiroo&theme=react&hide_border=true&bg_color=0d1117" alt="My contributions" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=fabiobrasileiroo&theme=react&hide_border=true&locale=pt_BR&card_width=500&background=0d1117" alt="My contributions" />
 </div>
 
 </div >
