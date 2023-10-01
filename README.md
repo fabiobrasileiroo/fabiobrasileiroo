@@ -23,10 +23,13 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=fabiobrasileiroo&theme=react&hide_border=true&bg_color=0d1117" alt="My contributions" />
 </div>
 
-</div>
+</div >
   
   <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=fabiobrasileiroo&bg_color=000000&color=2dbfd2&line=4118a0&point=2dbfd2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
-<img src="./perfilGif.gif" />
+  <div aling="center">
+    <img src="./perfilGif.gif" />
+  </div>
+
 <div align="center"> 
 
 ### Main skills:
