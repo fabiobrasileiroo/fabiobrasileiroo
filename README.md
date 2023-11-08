@@ -15,8 +15,8 @@
   </a>
   </div>
   <div align="center">
-    <img align="center" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fabiobrasileiroo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0d1117" /> 
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiobrasileiroo&layout=compact&langs_count=10&theme=react&bg_color=0d1117&hide_border=true&hide=css=true"/>
+     <img align="center" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fabiobrasileiroo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0d1117" /> 
   </div>
 
 <div align="center">
