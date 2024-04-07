@@ -23,8 +23,8 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=fabiobrasileiroo&theme=react&hide_border=true&locale=pt_BR&card_width=500&background=0d1117" alt="My contributions" />
 </div>
 
-<div style="display:flex;justify-content:center;flex-direction: column;">
   <a href="https://wakatime.com/@018be45f-389a-4902-9f18-bb11851c7a68"><img src="https://wakatime.com/badge/user/018be45f-389a-4902-9f18-bb11851c7a68.svg" alt="Total time coded since Nov 18 2023" /></a>
+<div  style="display:flex;justify-content:center;flex-direction: column;">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@fabiobrasileiroo\&layout=compact" />
 </div>
 </div >
