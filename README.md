@@ -13,6 +13,7 @@
     <a href="https://linkedin.com/in/fabiobrasileiro" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 0px;" />
   </a>
+<a   href="https://wakatime.com/@018be45f-389a-4902-9f18-bb11851c7a68"><img src="https://wakatime.com/badge/user/018be45f-389a-4902-9f18-bb11851c7a68.svg" alt="Total time coded since Nov 18 2023" /></a>
   </div>
   <div align="center">
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiobrasileiroo&layout=compact&langs_count=10&theme=react&bg_color=0d1117&hide_border=true&hide=css=true"/>
@@ -22,12 +23,13 @@
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=fabiobrasileiroo&theme=react&hide_border=true&locale=pt_BR&card_width=500&background=0d1117" alt="My contributions" />
 </div>
-
-  <a href="https://wakatime.com/@018be45f-389a-4902-9f18-bb11851c7a68"><img src="https://wakatime.com/badge/user/018be45f-389a-4902-9f18-bb11851c7a68.svg" alt="Total time coded since Nov 18 2023" /></a>
-<div  style="display:flex;justify-content:center;flex-direction: column;">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@fabiobrasileiroo\&layout=compact" />
+<div  align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@fabiobrasileiroo\&layout=compact&theme=react&hide_border=true&bg_color=0d1117" />
 </div>
 </div >
+<div align="center">
+  
+</div>
   
   <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=fabiobrasileiroo&bg_color=000000&color=2dbfd2&line=4118a0&point=2dbfd2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
   <div align="center">
