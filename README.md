@@ -24,7 +24,8 @@
 </div>
 <div align="center">
   <a href="https://wakatime.com/@018be45f-389a-4902-9f18-bb11851c7a68"><img src="https://wakatime.com/badge/user/018be45f-389a-4902-9f18-bb11851c7a68.svg" alt="Total time coded since Nov 18 2023" /></a>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@fabiobrasileiroo" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@fabiobrasileiroo\&layout=compact" />
+
 </div>
 </div >
   
