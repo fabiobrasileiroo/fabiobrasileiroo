@@ -50,6 +50,7 @@
 ![Angular](https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=61DAFB)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript&labelColor=0D1117)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=Bootstrap&labelColor=0D1117)&nbsp;
+![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C&labelColor=0D1117)&nbsp;
 <!--![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)-->
 
   
@@ -62,9 +63,9 @@
 ![Mysql](https://img.shields.io/badge/-Mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117)&nbsp;
-![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C&labelColor=0D1117)&nbsp;
+![Node](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
 <br>
-![node](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117)&nbsp;
 </div>
   
 <div align="center">
