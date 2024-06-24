@@ -77,6 +77,33 @@
 <br>
 </div>
 <div>
+  
+  ``` js
+                       .-.         ____________________________________________
+                      |_:_|       |                                            |
+                     /(_Y_)\  ----| A sua falta de documentação é perturbadora!|
+.                 ( \/M\/ )     |____________________________________________|
+ '.               _.'-/'-'\-'._   
+   ':           _/.--'[[[[]'--.\_
+     ':        /_'  : |::"| :  '.\
+       ':     //   ./ |oUU| \.'  :\
+         ':  _:'..' \_|___|_/ :   :|
+           ':.  .'  |_[___]_|  :.':\
+            [::\ |  :  | |  :   ; : \
+             '-'   \/'.| |.' \  .;.' |
+             |\_    \  '-'   :       |
+             |  \    \ .:    :   |   |
+             |   \    | '.   :    \  |
+             /       \   :. .;       |
+            /     |   |  :__/     :  \\
+           |  |   |    \:   | \   |   ||
+          /    \  : :  |:   /  |__|   /|
+          |     : : :_/_|  /'._\  '--|_\
+          /___.-/_|-'   \  \
+                         '-'
+  ```
+</div>
+<div>
   <details>
  <summary><h3>👨‍💻 Por que é divertido programar?</h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </summary>
 Pela satisfação de construir algo. Da mesma forma que crianças se divertem montando peças de LEGO, adultos se divertem construindo coisas um pouco mais complexas. Geralmente ficamos felizes quando construímos coisas úteis para alguém. Também ficamos felizes quando fazemos atividades não repetitivas, e quando temos aprendizagem constante.
