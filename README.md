@@ -42,6 +42,7 @@
 ![Gnu](https://img.shields.io/badge/Gnu-%23333?style=for-the-badge&logo=Gnu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![ArchLinux](https://img.shields.io/badge/ArchLinux-02A4CE?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019331?style=for-the-badge&logo=vim&labelColor=019331)&nbsp;
 ![Neovim](https://img.shields.io/badge/NeoVim-1064a6?style=for-the-badge&logo=neovim&labelColor=1064a6)&nbsp;
