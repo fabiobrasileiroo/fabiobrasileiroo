@@ -74,6 +74,7 @@
 ![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-kotlin-0D1117?style=for-the-badge&logo=kotlin&labelColor=0D1117)&nbsp;
 ![Android](https://img.shields.io/badge/-android-0D1117?style=for-the-badge&logo=android&labelColor=0D1117)&nbsp;
+![Vitest](https://img.shields.io/badge/-vitest-0D1117?style=for-the-badge&logo=vitest&labelColor=0D1117)&nbsp;
 </div>
   
 <div align="center">
