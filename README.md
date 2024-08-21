@@ -68,13 +68,13 @@
 ![ReactNative](https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Php](https://img.shields.io/badge/-Php-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
-![Wordpress](https://img.shields.io/badge/-Wordpress-0D1117?style=for-the-badge&logo=wordpress&labelColor=0D1117)&nbsp;
+![Vitest](https://img.shields.io/badge/-vitest-0D1117?style=for-the-badge&logo=vitest&labelColor=0D1117)&nbsp;
+<!--![Wordpress](https://img.shields.io/badge/-Wordpress-0D1117?style=for-the-badge&logo=wordpress&labelColor=0D1117)&nbsp;-->
 <br>
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-kotlin-0D1117?style=for-the-badge&logo=kotlin&labelColor=0D1117)&nbsp;
 ![Android](https://img.shields.io/badge/-android-0D1117?style=for-the-badge&logo=android&labelColor=0D1117)&nbsp;
-![Vitest](https://img.shields.io/badge/-vitest-0D1117?style=for-the-badge&logo=vitest&labelColor=0D1117)&nbsp;
 </div>
   
 <div align="center">
