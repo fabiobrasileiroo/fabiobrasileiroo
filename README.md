@@ -46,6 +46,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019331?style=for-the-badge&logo=vim&labelColor=019331)&nbsp;
 ![Neovim](https://img.shields.io/badge/NeoVim-1064a6?style=for-the-badge&logo=neovim&labelColor=1064a6)&nbsp;
+![DWM](https://img.shields.io/badge/dwm-1064a6?style=for-the-badge&logo=dwm&labelColor=1064a6)&nbsp;
 <br>
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTMl-0D1117.svg?style=for-the-badge&logo=html5&logoColor=orange)&nbsp;
