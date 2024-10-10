@@ -62,6 +62,7 @@
 ![Aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
 ![Tailwind Css](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&labelColor=0D1117)&nbsp;
+![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=Prisma&logoColor=white)&nbsp;
 <!--![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)-->
 
   
