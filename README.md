@@ -48,7 +48,7 @@
 ![Neovim](https://img.shields.io/badge/NeoVim-1064a6?style=for-the-badge&logo=neovim&labelColor=1064a6)&nbsp;
 ![DWM Suck Less](https://img.shields.io/badge/dwm-1177AA?style=for-the-badge&logo=dwm&labelColor=1177AA)&nbsp;
 <br>
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-css-0D1117?style=for-the-badge&logo=css&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTMl-0D1117.svg?style=for-the-badge&logo=html5&logoColor=orange)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=61DAFB)&nbsp;
