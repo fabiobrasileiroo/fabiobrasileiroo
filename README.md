@@ -81,6 +81,7 @@
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117)&nbsp;
 ![Latex](https://img.shields.io/badge/-latex-0D1117?style=for-the-badge&logo=latex&labelColor=0D1117)&nbsp;
 <br>
+![UI](https://img.shields.io/badge/-ui-0D1117?style=for-the-badge&logo=ui&labelColor=0D1117)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-kotlin-0D1117?style=for-the-badge&logo=kotlin&labelColor=0D1117)&nbsp;
 ![Android](https://img.shields.io/badge/-android-0D1117?style=for-the-badge&logo=android&labelColor=0D1117)&nbsp;
 ![UX](https://img.shields.io/badge/-ux-0D1117?style=for-the-badge&logo=ux&labelColor=0D1117)&nbsp;
