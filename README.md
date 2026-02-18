@@ -69,6 +69,8 @@
 ![Next.js](https://img.shields.io/badge/-next.js-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117)&nbsp;
 ![Figman](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![Cypress](https://img.shields.io/badge/-cypress-0D1117?style=for-the-badge&logo=cypress&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117)&nbsp;
+![Spring](https://img.shields.io/badge/-spring-0D1117?style=for-the-badge&logo=spring&labelColor=0D1117)&nbsp;
 <!--![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)-->
 
   
